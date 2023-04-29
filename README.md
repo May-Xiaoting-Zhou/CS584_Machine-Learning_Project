@@ -53,13 +53,10 @@ Method:
 
 - Download Anaconda and necessary environment
 - Download the [datasets](https://www.kaggle.com/competitions/instacart-market-basket-analysis/data)
-- Run Data_Processing.ipynb file
+- Run Data_Processing.ipynb file (First)
+- Run Product_Recommendation_Model.ipynb file (Second)
 
-
-
-- Run Product_Recommendation_Model.ipynb file
-
-
+(First): need data professing first
 
 
 ## **Example:**
