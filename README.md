@@ -8,7 +8,7 @@
 >
 >  [@Xiaoting Zhou](https://github.com/May-Xiaoting-Zhou)
 >
->  Nevil Jack D
+>  Nevil Jack Denis
 >
 >  
 
