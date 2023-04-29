@@ -27,7 +27,7 @@
 - Developing Language: Python
 - Project Name: Product Recommendation Model
 - Time: April/28/2023
-- Description: Through a 30% fully connected neural network test as a product recommendation model, the accuracy of the model is tested by splitting into train, validation, and test data set, and among 100 types of products, the accuracy of predicting the next purchased product reaches 10.725%.
+- Description: Through a 3 layers of fully connected neural network test as a product recommendation model, the accuracy of the model is tested by splitting into train, validation, and test data set, and among 100 types of products, the accuracy of predicting the next purchased product reaches 10.725%.
 
 
 ## **Dependencies:** 
