@@ -66,13 +66,13 @@ Method:
 
 1. The screenshot of Data_Processing.ipynb file.
 
-   ![Data processing](./picture/data processing.JPG)
+   ![Data processing](./picture/data_processing.JPG)
 
    
 
 2. The screenshot of the two newly generated CSV files.
 
-   ![New CSV file](./picture/new csv.JPG)
+   ![New CSV file](./picture/new_csv.JPG)
 
    
 
